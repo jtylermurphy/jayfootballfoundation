@@ -1,1 +1,4 @@
-Redirect 302 /golf http://jayfootballfoundation.org
+RewriteEngine On
+
+Options +FollowSymLinks
+Redirect 302 /golf/ http://jayfootballfoundation.org
