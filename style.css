@@ -1,0 +1,33 @@
+body {
+	background: #fff url("img/golf_background.jpg") no-repeat 50% 50% fixed;
+	background-size: cover;
+}
+
+header { 
+	background-color: #ed1c24;
+	width: 100%;
+    min-height: 200px;
+}
+
+
+.logo {
+	width: 150px;
+	margin-left: 25px;
+	margin-top: 25px;
+}
+
+.date {
+	float: right;
+	margin-top: 45px;
+	height: 120px;
+}
+
+
+.box {
+	float: right; 
+	width: 490px;
+	min-height: 200px;
+	background: rgba(255,255,255,.95);
+	margin-top: 100px;
+	padding: 20px;
+}
